@@ -7,5 +7,10 @@ public class Main {
         car.colour = "Red";
         car.plate = "12345";
 
+        car.drive();
+        car.brake();
+
+
+
     }
 }
