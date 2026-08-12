@@ -8,6 +8,11 @@ public class Main {
 
         Scanner sc = new Scanner(System.in);
 
+        Car car = new Car();
+
+
+
+
         sc.close();
 
     }
