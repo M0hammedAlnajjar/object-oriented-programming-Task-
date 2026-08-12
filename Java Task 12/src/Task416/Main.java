@@ -9,7 +9,7 @@ public class Main {
 
         book1.title = "Java Basics";
 
-        book1.author = "Maryam";
+//        book1.author = "Maryam";
 
 
         book1.printInfo();
