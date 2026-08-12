@@ -13,8 +13,13 @@ public class Main {
 
 
         if (answer.equals("yes")) {
-
+            System.out.println("You entered yes.");
+        } else if (answer.equals("no")) {
+            System.out.println("You entered no.");
+        } else {
+            System.out.println("Invalid answer.");
         }
+
         sc.close();
 
 
