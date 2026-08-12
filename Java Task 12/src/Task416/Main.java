@@ -15,6 +15,8 @@ public class Main {
         Book book2 = new Book();
 
         book2.title = "OOP Fundamentals";
+        book2.author = "Fatma";
+
 
 
 
