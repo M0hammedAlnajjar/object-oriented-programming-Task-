@@ -5,10 +5,14 @@ public class Main {
 
     static void main(String[] args) {
 
-        Book book1=new Book();
+        Book book1 = new Book();
 
-        book1.title="Java Basics";
-        book1.author="Maryam";
+        book1.title = "Java Basics";
+
+        book1.author = "Maryam";
+
+
+        book1.printInfo();
 
     }
 }
