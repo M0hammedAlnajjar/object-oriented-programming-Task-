@@ -6,7 +6,7 @@ public class Book {
     String author;
 
     public void printInfo() {
-        IO.println(title);
+        IO.println("Title: " + title);
         IO.println(author);
 
     }
