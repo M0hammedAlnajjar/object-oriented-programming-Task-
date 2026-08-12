@@ -20,6 +20,8 @@ public class Main {
         Book book3 = new Book();
 
         book3.title = "Advanced Java";
+        book3.author = "Salim";
+
 
         book1.printInfo();
 
