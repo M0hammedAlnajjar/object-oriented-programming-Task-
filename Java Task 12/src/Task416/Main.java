@@ -14,6 +14,9 @@ public class Main {
 
         Book book2 = new Book();
 
+        book2.title = "OOP Fundamentals";
+
+
 
         book1.printInfo();
 
