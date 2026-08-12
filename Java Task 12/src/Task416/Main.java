@@ -17,7 +17,7 @@ public class Main {
         book2.title = "OOP Fundamentals";
         book2.author = "Fatma";
 
-
+        Book book3 = new Book();
 
 
         book1.printInfo();
