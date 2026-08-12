@@ -16,6 +16,8 @@ public class Main {
         System.out.println("Enter plate:");
         car.plate = sc.nextLine();
 
+
+        car.drive();
         sc.close();
 
     }
