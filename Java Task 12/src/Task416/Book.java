@@ -7,7 +7,7 @@ public class Book {
 
     public void printInfo() {
         IO.println("Title: " + title);
-        IO.println(author);
+        IO.println("Author: " +author);
 
     }
 }
