@@ -11,6 +11,10 @@ public class Main {
 //        book1.author = "Maryam";
         book1.author="Ishaq";
 
+
+        Book book2 = new Book();
+
+
         book1.printInfo();
 
     }
