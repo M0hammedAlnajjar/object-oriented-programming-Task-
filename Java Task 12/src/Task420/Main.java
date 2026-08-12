@@ -11,6 +11,10 @@ public class Main {
         System.out.println("Enter yes or no:");
         String answer = sc.nextLine();
 
+
+        if (answer.equals("yes")) {
+
+        }
         sc.close();
 
 
