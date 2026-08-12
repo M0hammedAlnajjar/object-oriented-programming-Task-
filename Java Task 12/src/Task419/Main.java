@@ -10,7 +10,8 @@ public class Main {
 
         Car car = new Car();
 
-
+        System.out.println("Enter car colour:");
+        car.colour = sc.nextLine();
 
 
         sc.close();
