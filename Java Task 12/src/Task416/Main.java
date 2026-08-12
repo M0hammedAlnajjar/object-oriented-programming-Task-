@@ -7,5 +7,7 @@ public class Main {
 
         Book book1=new Book();
 
+        book1.title="Java Basics";
+
     }
 }
