@@ -8,6 +8,9 @@ public class Main {
 
         Scanner sc = new Scanner(System.in);
 
+        System.out.println("Enter yes or no:");
+        String answer = sc.nextLine();
+
         sc.close();
 
 
